@@ -16,6 +16,7 @@ Hardware:
 6 1.27mm pin header to transfert signal pin to hat GNSS
 
 7 1.27mm pin header to transfert signal pin to Hat spi Lora
+
 ![description](https://github.com/MaxESP/Ebyte-GNSS-stm32f103-main-ebyte-GNSS-Hat-Professional-Antenna-/blob/main/stm32f103board.png)
 
 
