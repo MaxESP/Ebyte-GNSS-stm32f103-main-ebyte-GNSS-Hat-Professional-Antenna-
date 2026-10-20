@@ -22,4 +22,4 @@ Hardware:
 
 ![description](https://github.com/MaxESP/Ebyte-GNSS-stm32f103-main-ebyte-GNSS-Hat-Professional-Antenna-/blob/main/Antenna%20enclosure.png)
 
-![description](https://github.com/MaxESP/LCD-Bodmer-style-lib-integration-for-cubeide-stm32h743h743/blob/main/intro.jpg)
+
